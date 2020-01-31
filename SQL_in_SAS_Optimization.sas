@@ -1,5 +1,5 @@
 /********************************************************************
-* Name: Project 1.sas                                               *
+* Name: SQL_in_SAS_Optimization.sas                                 *
 * Date: March 29, 2019                                              *
 *                                                                   *
 * Purpose: Solve the various problems given in DSCI 325 project 1   *
