@@ -3,8 +3,9 @@
 * Date: March 29, 2019                                              *
 *                                                                   *
 * Purpose: Solve the various problems given in DSCI 325 project 1   *
-*          without the creation of any unesssecary tables           *
-*                                                                   *
+*          without the creation of any unesssecary tables. All data *
+*          is used from baseballdatabank-2019.2			    *
+*								    *
 * Output: Temporary SAS outputs resulting from SQL Queries that     *
 *         Correlate to the project questions                        *
 ********************************************************************/
